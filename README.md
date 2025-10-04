@@ -13,7 +13,7 @@ The goal was to predict outlet sales based on product and store features using r
 Python • Pandas • Scikit-learn • XGBoost • LightGBM • CatBoost • Matplotlib • Seaborn
 
 ## 📘 Notebook
-Check the full notebook [here](BigMart_Sales_Prediction.ipynb)
+Check the full notebook: Final_Script.ipynb
 
 ## 🔗 Hackathon
 [Analytics Vidhya Big Mart Sales Prediction](https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/)
